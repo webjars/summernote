@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>summernote</artifactId>
-    <version>0.8.9</version>
+    <version>0.8.10-SNAPSHOT</version>
     <name>summernote</name>
     <description>WebJar for summernote</description>
     <url>http://webjars.org</url>
@@ -52,7 +52,7 @@
         <url>http://github.com/webjars/summernote</url>
         <connection>scm:git:https://github.com/webjars/summernote.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/summernote.git</developerConnection>
-        <tag>summernote-0.8.9</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
